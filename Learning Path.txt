@@ -1,0 +1,379 @@
+
+Here's what's on the menu: 👇
+
+🐍 Python,
+📊 SQL,
+🛠️ MySQL,
+🌳 MongoDB,
+🔥 PySpark,
+🎈 Bash,
+🌬️ Airflow,
+☕ Kafka,
+🐙 Git,
+🐈 GitHub,
+⚙️ CICD basics,
+🏬 Data Warehousing,
+🛠️ DBT,
+🌊 Data Lakes,
+📘 DataBricks,
+☁️ Azure Databricks,
+❄️ Snowflake,
+🌪️ Apache NiFi,
+🌐 Debezium
+
+🔺 7000+ Course Access : https://lnkd.in/dc7dUxkj
+
+<>. Google Data Analytics:
+🔹https://lnkd.in/dzkSzptZ
+
+Free Course: IBM Data Engineering Professional Certificate.
+
+https://lnkd.in/g_KCB5N6
+
+1. Master Python: https://lnkd.in/gY422cnP
+
+2. Learn SQL: https://lnkd.in/gJ5rxC_X
+
+3. Get hands-on with MySQL: https://lnkd.in/guBKsTrd
+
+4. Dive into MongoDB: https://lnkd.in/gw9zpjNb
+
+5. Master PySpark:https://lnkd.in/g87bVTHz
+
+6. Discover Bash, Airflow & Kafka: https://lnkd.in/gEYZhi8h
+
+7. Master Git & GitHub: https://lnkd.in/gShfwBjn
+
+8. Understand CICD basics: https://lnkd.in/gEbd3gjN
+
+9. Decode Data Warehousing: https://lnkd.in/gHw955Kq
+
+11. Understand Data Lakes: https://lnkd.in/g2ev-fxH
+
+12. Explore DataBricks: https://lnkd.in/g4qgsN7s
+
+13. Learn Azure Databricks: https://lnkd.in/gxQuHDbB
+
+14. Master Snowflake: https://lnkd.in/gg3MYXBv
+
+15. Explore Apache NiFi: https://lnkd.in/gUv9yd2y
+
+Happy Learning!
+
+=======================================================================================
+
+Are you looking for change your career to Data Engineering?
+
+Day 1✨✨✨✨✨:
+
+Frameworks come and go. SQL stays.
+
+Data Engineers can relate to this.
+
+𝗦𝗼, 𝗵𝗲𝗿𝗲 𝗶𝘀 𝘁𝗵𝗲 𝘄𝗲𝗲𝗸 𝘄𝗶𝘀𝗲 𝗽𝗹𝗮𝗻 𝘁𝗼 𝗹𝗲𝗮𝗿𝗻 𝗦𝗤𝗟
+
+𝗪𝗲𝗲𝗸 𝟭: Learn Basic SQL - https://lnkd.in/dFcP-X6N 
+
+𝗪𝗲𝗲𝗸 𝟮: Advanced SQL - https://lnkd.in/dPPpttHg
+
+Basic and Advanced SQL videos are from Sumit Mittal YT channel.
+
+𝗪𝗲𝗲𝗸 𝟯: Start practicing interview questions - https://lnkd.in/dWCVfXsA
+
+Ankit Bansal YT channel has around 100+ frequently asked interview questions
+
+Try to solve 2-3 problems a day, consistency is the key!!
+
+𝗪𝗲𝗲𝗸 𝟰: LeetCode has around 50+ Basic to Hard level questions.
+
+𝗪𝗲𝗲𝗸 𝟱: sqlbolt has around 35+ Easy to Hard level questions.
+
+𝗪𝗲𝗲𝗸 𝟲: DataLemur 🐒 (Ace the SQL & Data Interview) r has around 50+ interview questions asked in top product based companies.]
+
+𝗕𝗮𝘀𝗶𝗰 𝗦𝗤𝗟 --> 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗦𝗤𝗟 --> 𝟮𝟱𝟬+ 𝗦𝗤𝗟 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀
+
+———————————————————————
+
+𝟰 𝗚𝗿𝗲𝗮𝘁 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗰𝗵𝗮𝗻𝗻𝗲𝗹𝘀 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗳𝗼𝗹𝗹𝗼𝘄- 
+
+👉 Zach Wilson - https://lnkd.in/gA6anvuw
+👉 Darshil Parmar - https://lnkd.in/gTNfCYT8
+👉 Benjamin Rogojan - https://lnkd.in/gRfjHaDJ
+👉 Shashank Mishra 🇮🇳 - https://lnkd.in/gfUrr6zt
+
+𝗜𝗳 𝘆𝗼𝘂 𝗻𝗲𝗲𝗱 𝗚𝘂𝗶𝗱𝗮𝗻𝗰𝗲, 𝘁𝗵𝗲𝗻 𝗗𝗠. 𝗜 𝘄𝗶𝗹𝗹 𝗰𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝘆𝗼𝘂 𝗮𝗻𝗱 𝗜 𝘄𝗶𝗹𝗹 𝘀𝗵𝗮𝗿𝗲 𝗘𝗔𝗖𝗛 & 𝗘𝗩𝗘𝗥𝗬𝗧𝗛𝗜𝗡𝗚 𝗮𝗯𝗼𝘂𝘁 𝗯𝗲𝗹𝗼𝘄 𝘁𝗼𝗽𝗶𝗰𝘀 👇🏻 
+
+✅ 𝗥𝗼𝗮𝗱𝗺𝗮𝗽
+✅ 𝗧𝘆𝗽𝗲𝘀 𝗼𝗳 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗿𝗼𝘂𝗻𝗱𝘀 𝗳𝗼𝗿 𝗯𝗼𝘁𝗵 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 & 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 
+✅ 𝗞𝗲𝘆 𝘁𝗼𝗽𝗶𝗰𝘀 𝘁𝗼 𝗳𝗼𝗰𝘂𝘀 𝗼𝗻 𝗱𝘂𝗿𝗶𝗻𝗴 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄𝘀 
+✅ 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗮𝗻𝗱 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗱𝗲𝘀𝗶𝗴𝗻 𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀
+✅ 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝗱𝗶𝘀𝗰𝘂𝘀𝘀𝗶𝗼𝗻𝘀
+✅ 𝗕𝗲𝗵𝗮𝘃𝗶𝗼𝘂𝗿𝗮𝗹 𝗶𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗮𝗻𝗱 𝘄𝗵𝗮𝘁 𝗵𝗶𝗿𝗶𝗻𝗴 𝗺𝗮𝗻𝗮𝗴𝗲𝗿𝘀 𝗿𝗲𝗮𝗹𝗹𝘆 𝗹𝗼𝗼𝗸 𝗳𝗼𝗿
+
+𝗡𝗢𝗧𝗘 : 𝗜’𝗺 𝗻𝗼𝘁 𝗰𝗵𝗮𝗿𝗴𝗶𝗻𝗴 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝗳𝗼𝗿 𝘁𝗵𝗶𝘀. 𝗜 𝗷𝘂𝘀𝘁 𝘄𝗮𝗻𝘁 𝘁𝗼 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂❤️.
+
+Do comment down💭 and I’ll connect to you personally and will try to #help you out. 
+
+follow Girish V for more related content. 😊 
+
+💡 For better reach Andreas Kretz Deepak Goyal Gowtham SB Nimra Ayaz Lovee Kumar Sachin C W 🇮🇳 Allauddin Khan Pathan 📉📊 Abhisek Sahu Sai Krishna Chivukula 
+
+
+### SQL
+1. Video Tutorials:
+- techTFQ YouTube Channel
+- Ankit Bansal YouTube Channel
+
+2. Practice Websites:
+- Datalemur
+- Leetcode
+- Hackerrank
+- Stratascratch
+
+### Python
+1. Video Tutorials:
+- Jose Portilla's "Python for Data Science and Machine Learning Bootcamp" on Udemy
+
+2. Case Studies and Practice:
+- Various Pandas case studies on YouTube Channel - "Data Thinkers"
+- Continued practice of Python (& pandas too) on Leetcode and Datalemur
+
+### Excel & Power BI
+1. Courses:
+- Leila Gharani’s Excel and Power BI courses on Udemy and YouTube
+
+2. Self-Learning:
+- Created dashboards in Excel and Power BI using various YouTube tutorials for practical learning
+- Followed Various Excel interview questions videos from "Kenji Explains" YouTube channel.
+
+These resources were instrumental in helping me crack the Excel, SQL, and Python (Pandas) questions during my interview.
+
+### Business Case studies
+
+1. I followed "Insider Gyan" YouTube channel & "Case in Point" book for business case studies & Guesstimate problems.
+
+======================================================================================
+
+Just Looking like Wow 😮
+<> 7000+ Course Free Access : https://lnkd.in/dGESrUab
+
+Google Data Analytics:-
+🔹https://lnkd.in/darbhnsH
+
+Dont miss out Here are The Free Courses -
+
+Web Dev (HTML and CSS)
+◽https://lnkd.in/d_hcSBGr
+
+
+Python
+◽https://lnkd.in/gMizg4SB
+
+
+JavaScript
+◽https://lnkd.in/dabj4Vta
+
+
+Probability & Statistics for Machine Learning & Data Science
+◽https://lnkd.in/dhAEGfbp
+
+
+SQL for Data Science with Python
+◽https://lnkd.in/d_7BRPyi
+
+
+Tableau
+◽https://lnkd.in/dYUu_eTw
+
+
+Microsoft Power BI
+◽https://lnkd.in/dVDGgWjq
+
+
+IBM Data Science
+◽https://lnkd.in/dzb3N7aa
+
+
+IBM Data Analysts
+◽https://lnkd.in/dunZQrgT
+
+
+IBM Data Engineering
+◽https://lnkd.in/dy5xs38i
+
+
+Big Data
+◽https://lnkd.in/dmv7Mpxj
+
+
+Mathematics
+◽https://lnkd.in/dBv_n-pR
+
+
+Microsoft Azure Fundamentals
+◽https://lnkd.in/dWsZxyMU
+
+
+Google Cybersecurity
+◽https://lnkd.in/dih_KEcH
+
+
+Advanced Django : Mastering Django Rest Framework Specialization
+◽https://lnkd.in/dderwh6K
+
+
+Advanced Data Science with IBM specialization
+◽https://lnkd.in/dMyDhBxj
+
+
+Data Analytics For Python
+◽https://lnkd.in/d2dqEbyJ
+
+
+Data Analytics with excel and R Professional certificate
+◽https://lnkd.in/dM7ixWDh
+
+
+<Google Meta and Amazon are offering FREE online courses with certification>
+
+1 . Introduction to Cloud Computing
+🔹https://lnkd.in/d4_4j3Tf
+
+2. Introduction to Machine Learning on AWS
+🔹https://lnkd.in/dgyrxZW4
+
+3. AWS fundamentals Specialization
+🔹https://lnkd.in/dJNC3r8Q
+
+4. Devops on AWS Specialization
+🔹https://lnkd.in/dZGAxGd8
+
+5. AWS Cloud Technical Essentials
+🔹https://lnkd.in/d9NeFSWa
+
+6. AWS Cloud Technology Consultant Professional Certificate
+🔹https://lnkd.in/dbk579u4
+
+7. AWS Cloud Solutions Architect Professional Certificate
+🔹https://lnkd.in/dH64WcrS
+
+8. Exam Prep: AWS Certified DevOps Engineer - Professional Specialization
+🔹https://lnkd.in/dAVa_aVD
+
+9. Google Cloud Infrastructure for AWS Professionals Specialization
+🔹https://lnkd.in/dkG7ZCmh
+
+10. Exam Prep MLS-C01: AWS Certified Specialty Machine Learning Specialization
+🔹https://lnkd.in/dC6iziSx
+
+11. Getting Started with Data Analytics on AWS
+🔹https://lnkd.in/d7MJg6rf
+
+12. AWS: Networking
+🔹https://lnkd.in/djRNT3sP
+
+13. Exam Prep: AWS Certified Solutions Architect - Associate
+🔹https://lnkd.in/dQ6UZbP3
+
+14. Hands-on Machine Learning with AWS and NVIDIA
+🔹https://lnkd.in/dka2HEd9
+
+15. DevOps on AWS: Release and Deploy
+🔹 https://lnkd.in/dqmvNzCV
+
+16. Backend Development
+🔹 https://lnkd.in/dpETNPwt
+
+
+[Happy Learning 📚]
+
+FREE [t.me/NotesGallery1 / t.me/CodingBugs / wa.oia.bio/jobs]
+
+
+<<<<<Follow @rani thakur for more such content>>>>>
+===========================================================================================
+
+Attention aspiring data engineers! Are you eager to master the skills necessary to excel in the field?
+🎯 Look no further, because below is the curated and comprehensive, free Data Engineering course just for you.
+
+🎯With these 21 free courses, you'll be confident to face your interviews being ahead of 90% of your peers in no time.
+
+🎯 Best of all, you'll save thousands of dollars by taking advantage of this amazing opportunity.
+
+1.Master Python: https://lnkd.in/gVEYx-sY
+2.Learn SQL: https://lnkd.in/g6FFcsfr
+3.Learn MySQL: https://lnkd.in/gZTYeGxe
+4.Learn MongoDB: https://lnkd.in/gbVUvE6k
+5.Dominate PySpark: https://lnkd.in/g6BM5sJW
+6.Learn Bash, Airflow & Kafka: https://lnkd.in/gzbVYesb
+7. Learn Git & GitHub: https://lnkd.in/gVNDUNmy
+8. Learn CICD basics: https://lnkd.in/gtHCVQpc
+09. Decode Data Warehousing: https://lnkd.in/gdRtQtYv
+10. Learn DBT: https://lnkd.in/gYTxsezY
+11. Learn Data Lakes: https://lnkd.in/grrNGEih
+12. Learn DataBricks: https://lnkd.in/guQZztXG
+13. Learn Azure Databricks: https://lnkd.in/gJmdBtqT
+14. Learn Snowflake: https://lnkd.in/gMCmbmQQ
+15. Learn Apache NiFi: https://lnkd.in/gcAadUaK
+16. Learn Debezium: https://lnkd.in/gSpDcSBH
+
+𝐁𝐨𝐨𝐬𝐭 𝐘𝐨𝐮𝐫 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 & 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐰𝐢𝐭𝐡 5 𝐌𝐮𝐬𝐭-𝐓𝐫𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
+1. Reddit ETL Pipeline : https://lnkd.in/gtcPsXM5
+2. Surfline Dashboard - https://lnkd.in/gCrmQniM
+3. Finnhub Streaming Data Pipeline - https://lnkd.in/g-4btbbP
+4. Audiophile End-To-End ELT Pipeline - https://lnkd.in/g96nqM9t
+5. Streamify - https://lnkd.in/gaWX92mE
+
+Check the below comments if you are not able to access these resources directly.
+
+With these skills under your belt, you're ready to:
+🌟 Craft an irresistible resume
+🌟 Showcase your projects on Git
+🌟 Apply to data engineering positions
+
+Embark on your data engineering journey today and unlock a world of possibilities! 🚀
+
+💡 For more such insights, follow me 👉 Girish V 🇮🇳
+
+✨DM for any guidance regarding DE road map
+
+=======================================================================
+
+Venkata sai krishna Bysani  -Data Engineer @ BCBS
+
+1. Dataford : https://lnkd.in/dfSANRjE
+2. Interview Query : https://lnkd.in/d_uP8aG5
+3. Analyst Builder : https://lnkd.in/d-eZ6p5u
+4. LeetCode : https://leetcode.com/
+
+========================================================================
+
+I've released a three-part YouTube series on Exception Handling in #Python.
+
+Whether you're a beginner or looking to brush up on your skills, these videos cover everything you need to know about managing exceptions in your code effectively.
+
+🔹 𝐕𝐢𝐝𝐞𝐨 𝟏: 𝐁𝐚𝐬𝐢𝐜𝐬 𝐨𝐟 𝐄𝐱𝐜𝐞𝐩𝐭𝐢𝐨𝐧 𝐇𝐚𝐧𝐝𝐥𝐢𝐧𝐠
+--> Understand the fundamentals of exception handling
+--> Learn the key keywords: try, except, else, and finally
+--> Watch examples and see how they are executed in real-time
+📺 Watch Now : https://lnkd.in/dhXuU6WK
+
+🔹 𝐕𝐢𝐝𝐞𝐨 𝟐: 𝐓𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐭𝐡𝐞 𝐫𝐚𝐢𝐬𝐞 𝐊𝐞𝐲𝐰𝐨𝐫𝐝
+--> Dive deep into the raise keyword and its significance
+--> See practical examples demonstrating how to use raise to handle errors proactively
+
+📺 Watch Now : https://lnkd.in/d-JkMBwa
+
+🔹 𝐕𝐢𝐝𝐞𝐨 𝟑: 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐂𝐮𝐬𝐭𝐨𝐦 𝐄𝐱𝐜𝐞𝐩𝐭𝐢𝐨𝐧 𝐂𝐥𝐚𝐬𝐬𝐞𝐬
+--> Learn how to create your own custom exception classes
+--> Understand when and why to use custom exceptions in your projects
+
+📺 Watch Now : https://lnkd.in/dbfsqVTK
+
+Whether you're debugging complex applications or writing robust code, mastering exception handling is crucial. Don't miss out on this opportunity to enhance your Python programming skills.
+
+👉 Check out the videos and let me know what you think! Your feedback is highly appreciated.
+
+For Data Engineering Interview Preparation : https://lnkd.in/dM-vhTx8
+
+Do follow Dhiraj Gupta For more such content.
